@@ -1,18 +1,18 @@
-# TradeWise
+# Options Calculator
 
 ## Overview
 
-TradeWise is a powerful options calculator designed to help investors gain a deep understanding of options and make informed decisions when trading them. This versatile calculator incorporates both the Black-Scholes Model and the Binomial Model for option pricing, catering to the needs of traders with varying preferences and strategies.
+The Options Calculator is a powerful tool designed to help investors gain a deep understanding of options and make informed decisions when trading them. This versatile calculator incorporates both the Black-Scholes Model and the Binomial Model for option pricing, catering to the needs of traders with varying preferences and strategies.
 
-## Why Use TradeWise?
+## Why Use This Calculator?
 
-Options can be complex financial instruments, and trading them without a thorough understanding can lead to significant losses. TradeWise aims to bridge the knowledge gap by providing valuable insights into option pricing and strategies. Whether you are an experienced trader or just starting, TradeWise can be your guide to success in the options market.
+Options can be complex financial instruments, and trading them without a thorough understanding can lead to significant losses. This calculator aims to bridge the knowledge gap by providing valuable insights into option pricing and strategies. Whether you are an experienced trader or just starting, this tool can be your guide to success in the options market.
 
 ## Key Features
 
 ### 1. Black-Scholes Model
 
-TradeWise utilizes the Black-Scholes Model, a cornerstone of options pricing, to offer:
+The Black-Scholes Model, a cornerstone of options pricing, is integrated into this calculator to offer:
 
 - Call and put option pricing
 - Calculation of d1 and d2 values
@@ -42,7 +42,7 @@ The Black-Scholes Model operates under certain assumptions:
 
 ### 2. Binomial Model
 
-TradeWise also incorporates the Binomial Model, known for its simplicity, offering two distinct binomial-tree methods: Cox-Ross-Rubinstein and Jarrow-Rudd (the equal-probability model). These methods can be used for pricing various types of options and follow a similar three-step process. Assumptions for the Binomial Model include:
+The Binomial Model, known for its simplicity, is also included, offering two distinct binomial-tree methods: Cox-Ross-Rubinstein and Jarrow-Rudd (the equal-probability model). These methods can be used for pricing various types of options and follow a similar three-step process. Assumptions for the Binomial Model include:
 
 - Two possible prices for the underlying asset on the next day (up and down)
 - No dividends during the option's life
@@ -61,7 +61,7 @@ Note: The model assumes that the underlying asset's price follows a random walk.
 
 ## Python Resources
 
-To facilitate the calculations and enhance the user experience, TradeWise leverages several Python libraries:
+To facilitate the calculations and enhance the user experience, this calculator leverages several Python libraries:
 
 - Pandas: For data analysis and manipulation
 - Numpy: Supporting multi-dimensional arrays and matrices
@@ -72,4 +72,4 @@ To facilitate the calculations and enhance the user experience, TradeWise levera
 
 ## Get Started
 
-Gain a deeper understanding of options and enhance your trading strategies with TradeWise. Whether you prefer the precision of the Black-Scholes Model or the simplicity of the Binomial Model, TradeWise has you covered. Make informed decisions and maximize your potential in the options market.
+Gain a deeper understanding of options and enhance your trading strategies with the Options Calculator. Whether you prefer the precision of the Black-Scholes Model or the simplicity of the Binomial Model, this tool has you covered. Make informed decisions and maximize your potential in the options market.
